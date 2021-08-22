@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYNcA3NIupUeP4V664s17IELT76LuSw7AiwfBhDDafQvi4F4Dn01/tlqk7umZ1YI7CPkmYJQhQed0RVJEnvjFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yunkyu\\Documents\\GitHub\\Hackerthon2021\\Tutorial\\KioskCafeteriaTutorial\\KioskCafeteriaTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yunkyu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yunkyu\\.nuget\\packages\\tizen.net\\9.0.0.16469\\tizen.net.9.0.0.16469.nupkg.sha512",
+    "C:\\Users\\Yunkyu\\.nuget\\packages\\tizen.net.api9\\9.0.0.16469\\tizen.net.api9.9.0.0.16469.nupkg.sha512",
+    "C:\\Users\\Yunkyu\\.nuget\\packages\\tizen.net.internals\\9.0.0.16469\\tizen.net.internals.9.0.0.16469.nupkg.sha512",
+    "C:\\Users\\Yunkyu\\.nuget\\packages\\tizen.nui.xamlbuild\\1.0.27\\tizen.nui.xamlbuild.1.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

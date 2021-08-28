@@ -25,3 +25,9 @@
 ### 비접촉 온도 세선
 
   + https://github.com/adafruit/Adafruit-MLX90614-Library 참조 소스 포팅
+
+
+ ## 보드 
+ 
+  * PI4   : Kiosk 화면 조작 및 관련 처리 
+  * 센서   : 비 접촉 온도 센서 MLX90614

@@ -1,6 +1,6 @@
 ## GY-906-MLX90614ESF
 
-  + <img src="https://user-images.githubusercontent.com/46912845/92132926-ba5b0180-ee42-11ea-9239-3dd3329d8068.png" width="90%"></img>
+  + <img src="https://user-images.githubusercontent.com/46912845/131211168-bb0239bc-833d-454e-b354-a7a86984f93a.jpg" width="90%"></img>
 
 ## 비접촉 온도 센서
 

@@ -12,5 +12,10 @@
 
   + 해당 센서는 Ambient와 Object로 구분하여 측정됨
   + emissivity (방사율) 값이 90%설정 되어 있거 Read / Write 변경 가능 (타이젠 모듈에서 미 적용)
-  + 실제 온도 측정 시 오차가 발생하고 있으며, 실 사용시 기구적인 부분에 대한 보안이 필
+  + 실제 온도 측정 시 오차가 발생하고 있으며, 실 사용시 기구적인 부분에 대한 보안이 필요
 
+## 타사 제품 기구
+
+  <img src="https://user-images.githubusercontent.com/46912845/131214033-fc47eccb-2a0d-43e7-8e21-f30677234028.jpg" width="45%"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/131214034-7a15e92b-304b-4f8d-9a45-586aa16aaa3b.jpg"></img>
+  + 비 접촉 온도세서에 오차를 줄이기 위한 특별한 

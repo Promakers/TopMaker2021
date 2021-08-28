@@ -1,5 +1,9 @@
 ## 시연 동영상
 
+[![Watch the video](https://blog.kakaocdn.net/dn/by79CV/btqHJqp7oD9/aCODRDCiRHxckejBSok15k/img.png)](https://www.youtube.com/embed/h0MOsyAalx4)
+* 이미지 클릭시 동영상이 재생 됩니다.
+
+
 ## Pro Makers (김도혁/유수엽/최윤규/권준호/강진호)
 
 * 권준호 : 카메라 모듈 연동 작업 

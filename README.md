@@ -20,13 +20,17 @@
   
 ## 파일 리스트
 
+
+### UI
+
+  + KioskCafeteriaTutorial 예제를 활용한 키오스크 구현
+  + 
 ### 카메라 연동
 
   + App.xaml.cs  
   + https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Mobile/Lescanner 참조 하여 제작
   + C# Xamarin Bluetooth관련해서 참조할만한 소스가 1개 이며 포팅 후 기기 인식 부분에 문제 확인
 
-### UI
 
 
 ### 비접촉 온도 센서

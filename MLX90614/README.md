@@ -1,7 +1,8 @@
 ## GY-906-MLX90614ESF
 
   + <img src="https://user-images.githubusercontent.com/46912845/131211168-bb0239bc-833d-454e-b354-a7a86984f93a.jpg" width="50%"></img>
-
+  + 구매 좌표 https://smartstore.naver.com/misoparts/products/5256550599
+  + 
 ## 비접촉 온도 센서
 
   + https://github.com/adafruit/Adafruit-MLX90614-Library 참조 하여

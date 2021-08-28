@@ -53,7 +53,7 @@ def predict():
         print(pred2)
         print(mask_cnt)
 
-        return jsonify({'score': pred2[0]['scores'].tolist(), 'type':pred2[0]['labels'].tolist()})
+        return jsonify({'score': pred2[0]['scores'].tolist(), 'type':pred2[0]['labels'].tolist(), 'boxes':pred2[0]['boxes'].tolist()})
 
 
 if __name__ == '__main__':

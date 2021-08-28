@@ -2,6 +2,7 @@ E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\bin\NUIXAM
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\bin\NUIXAMLProject1.pdb
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\bin\Tizen.NUI.XamlBuild.dll
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\NUIXAMLProject1.deps.json
+E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\res\images\maksssksksss48.png
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\res\images\tizen.png
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\res\theme\theme.xaml
 E:\workspace\tizen\test\d02\NUIXAMLProject1\bin\Debug\tizen90\tpkroot\shared\res\NUIXAMLProject1.png

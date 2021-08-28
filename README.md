@@ -6,7 +6,7 @@
 
 ## Pro Makers (김도혁/유수엽/최윤규/권준호/강진호)
 
-* 권준호 : 카메라 모듈 연동 작업 
+* 권준호 : 카메라 모듈 연동 작업 / 마스크 인식 Server API
 * 최윤규 : 타이젠 UI 및 소스 머지 작업
 * 김도혁 : 온도 센서 연동 및 모듈 구현
 * 유수엽 : 온도 센서 하드웨어 분석  
@@ -29,7 +29,7 @@
 ## 파일 리스트
 
 
-### UI
+### UI (최윤규)
 
   + KioskCafeteriaTutorial 예제를 활용한 키오스크 구현
   + https://github.com/Promakers/TopMaker2021/tree/main/KioskCafeteriaTutorial 참조
@@ -38,8 +38,8 @@
   + Web API Server
   + Upload된 이미지의 마스크 유무를 판단하여 JSON형태로 결과 반환
   
-### Tizen_respapi_test
-  + 타이제 Rest API 이미지 확인 테스트 코드
+### Tizen_respapi_test (권준호)
+  + 타이젠에서 Res API 이미지 확인 테스트 코드
 
 ### MLX90614 비접촉 온도 센서 (김도혁)
 

@@ -17,5 +17,5 @@
 ## 타사 제품 기구
 
   <img src="https://user-images.githubusercontent.com/46912845/131214033-fc47eccb-2a0d-43e7-8e21-f30677234028.jpg" width="45%"></img>
-  <img src="https://user-images.githubusercontent.com/46912845/131214034-7a15e92b-304b-4f8d-9a45-586aa16aaa3b.jpg"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/131214034-7a15e92b-304b-4f8d-9a45-586aa16aaa3b.jpg" width="45%"></img>
   + 비 접촉 온도세서에 오차를 줄이기 위한 특별한 

@@ -38,11 +38,8 @@
   + Web API Server
   + Upload된 이미지의 마스크 유무를 판단하여 JSON형태로 결과 반환
   
-### 카메라 연동
-
-  + App.xaml.cs  
-  + https://github.com/Samsung/Tizen-CSharp-Samples/tree/master/Mobile/Lescanner 참조 하여 제작
-  + C# Xamarin Bluetooth관련해서 참조할만한 소스가 1개 이며 포팅 후 기기 인식 부분에 문제 확인
+### Tizen_respapi_test
+  + 타이제 Rest API 이미지 확인 테스트 코드
 
 ### MLX90614 비접촉 온도 센서 (김도혁)
 

@@ -24,7 +24,8 @@
 ### UI
 
   + KioskCafeteriaTutorial 예제를 활용한 키오스크 구현
-  + 
+  + https://github.com/Promakers/TopMaker2021/tree/main/KioskCafeteriaTutorial 참조
+  
 ### 카메라 연동
 
   + App.xaml.cs  

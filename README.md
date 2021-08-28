@@ -14,9 +14,9 @@
 
 ## 프로젝트 배경 혹은 목적
 
-  <img src="https://user-images.githubusercontent.com/46912845/131213333-831025ad-cfd8-4ab7-9903-07f61f57fb85.JPG" width="30%"></img>
-  <img src="https://user-images.githubusercontent.com/46912845/131213363-608d0e82-baed-48f6-909f-dc7a446c14c9.JPG" width="30%"></img>
-  <img src="https://user-images.githubusercontent.com/46912845/131213365-8ead6984-0a1f-40b9-9af9-dfd34c7bd5ac.JPG" width="30%"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/131213333-831025ad-cfd8-4ab7-9903-07f61f57fb85.JPG" width="80%"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/131213363-608d0e82-baed-48f6-909f-dc7a446c14c9.JPG" width="80%"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/131213365-8ead6984-0a1f-40b9-9af9-dfd34c7bd5ac.JPG" width="80%"></img>
   
 ## 파일 리스트
 

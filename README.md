@@ -1,3 +1,7 @@
+## 프로젝트 제목
+
+발열 및 마스크 착용 인식이 가능한 키오스크
+
 ## 시연 동영상
 
 [![Watch the video](https://tistory2.daumcdn.net/tistory/2946431/skin/images/main_key_events_4005.png)](https://youtu.be/493mAYvdQsk)
